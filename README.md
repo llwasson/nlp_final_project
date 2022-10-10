@@ -1,1 +1,1 @@
-# nlp_final_project
+In this project, I want to build a job recommendation engine.  This system will take a person’s resume, cover letter, or some statement of interest and match it to five occupations that are the best fit based on the person’s skillset, interests, and experience.  The purpose of this system is to provide a job seeker a general direction in their job search and to give an indication as to what occupations they qualify for, as well as similar occupations that they might want to consider.
